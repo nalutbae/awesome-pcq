@@ -1,13 +1,7 @@
-# macOS
-.DS_Store
+# Exam files (PDF/ZIP) — 용량이 크므로 Git에서 제외
+03-exam-solutions/exams/
+03-exam-solutions/download_list.json
+03-exam-solutions/file_links.json
+03-exam-solutions/detail_ids.json
 
-# XG5000 프로젝트 임시 파일
-*.tmp
-*.bak
-~$*
-
-# 이미지 편집 임시 파일
-*.~lock.*
-
-# 로그 파일
-*.log
+# Keep exam_list.json (메타데이터만 추적)
