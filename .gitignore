@@ -1,7 +1,9 @@
 # Exam files (PDF/ZIP) — 용량이 크므로 Git에서 제외
-03-exam-solutions/exams/
+# 03-exam-solutions/exams/
 03-exam-solutions/download_list.json
 03-exam-solutions/file_links.json
 03-exam-solutions/detail_ids.json
 
 # Keep exam_list.json (메타데이터만 추적)
+
+.DS_Store
